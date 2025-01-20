@@ -1,4 +1,4 @@
-# Career Management App
+# Career Canvas
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Career Management App is a global platform designed to empower university students, with a special focus on Bangladeshi students. It caters to students from universities, polytechnics, and madrasahs, providing comprehensive career and personal growth support.
+Career Canvas is a global platform designed to empower university students, focusing on Bangladeshi students. It caters to students from universities, polytechnics, and madrasahs, providing comprehensive career and personal growth support.
 
 ## Objective
 
