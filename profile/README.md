@@ -1,162 +1,67 @@
-# Career Canvas
+# Career Canvas – Your Ultimate Career Growth Companion  
 
-## Table of Contents
+<img src="https://play-lh.googleusercontent.com/4-lxJGWSGhPEFMyb37VzTA1MnG9Jqpi7dGznQ6FzBR7lbfWMhLK1AtOureTS_pSxMQ=w1024-h500-rw" alt="Banner" width="100%">
 
-1. [Introduction](#introduction)
-2. [Objective](#objective)
-3. [Core Features](#core-features)
-4. [Technology Stack](#technology-stack)
-5. [Global Integration Features](#global-integration-features)
-6. [Technical Details](#technical-details)
-    - [Core Features](#core-features-details)
-7. [UI/UX/Design Principles](#uiuxdesign-principles)
-    - [Suggested Visual Elements](#suggested-visual-elements)
-    - [UI Wireframe Highlights](#ui-wireframe-highlights)
-    - [Tools and Technologies for UI Design](#tools-and-technologies-for-ui-design)
-    - [Sample Workflow](#sample-workflow)
+[![Website](https://img.shields.io/badge/%20Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://careercanvas.pro)](https://careercanvas.pro)  [![Play Store](https://img.shields.io/badge/%20Google%20Play-Download-green?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/details?id=pro.careercanvas.app)](https://play.google.com/store/apps/details?id=pro.careercanvas.app) [![App Store](https://img.shields.io/badge/%20App%20Store-Download-black?style=for-the-badge&logo=apple&logoColor=white&link=https://apps.apple.com/us/app/career-canvas/id6741588419)](https://apps.apple.com/us/app/career-canvas/id6741588419)  
 
-## Introduction
-
-Career Canvas is a global platform designed to empower university students, focusing on Bangladeshi students. It caters to students from universities, polytechnics, and madrasahs, providing comprehensive career and personal growth support.
-
-## Objective
-
-The objective is to develop a cloud-native, serverless, multilingual application on AWS tailored for university students worldwide. The app will offer career guidance, skill mapping, entrepreneurial support, personal and professional branding, and access to global opportunities.
-
-## Core Features
-
-1. **User Onboarding**
-    - Multilingual support (English, Bangla, and more).
-    - Secure academic transcript uploads.
-    - AI-driven validation and categorization.
-
-2. **Career Guidance**
-    - Goal setting for personal, professional, and social aspirations.
-    - AI-driven skill gap analysis.
-    - Career path recommendations.
-
-3. **Psychometric Assessments**
-    - Integration of MBTI, DISC, OCEAN, and HIGH5 tests.
-    - Culturally contextualized results.
-
-4. **Real-Time Career Tracking**
-    - Integration with LinkedIn and local job boards.
-    - Real-time job trends and insights.
-
-5. **Entrepreneurship Support**
-    - AI tools for startup ideation and pitch deck creation.
-    - Access to funding opportunities.
-    - Mentorship connections.
-
-6. **Higher Education Planning**
-    - Database of global scholarships and grants.
-    - Proposal building tools.
-    - Application guidance.
-
-7. **Personal and Professional Branding**
-    - Content generation tools.
-    - AI-powered content optimization.
-    - Professional digital presence guidance.
-
-## Technology Stack
-
-### Backend
-- Language: Python
-- Architecture: Serverless microservices using AWS Lambda
-- API Management: AWS API Gateway
-
-### Databases
-- NoSQL: DynamoDB
-- SQL: RDS (MySQL)
-- Graph Database: Amazon Neptune
-
-### Frontend
-- Mobile App: Flutter (Android and iOS)
-- Web App: React.js
-
-### AI and Analytics
-- AWS SageMaker
-- Amazon Comprehend
-
-### Search and Storage
-- Amazon OpenSearch
-- Amazon S3
-
-### Authentication and Security
-- Amazon Cognito
-- Compliance with GDPR, CCPA, and global privacy standards
-
-## Global Integration Features
-
-- **Scholarship Finder**: Global and Bangladeshi-specific scholarships.
-- **Local Job Market Integration**: Platforms like Bdjobs.
-- **Cultural Adaptation**: Custom advice for global opportunities with local nuances.
-
-## Technical Details
-
-### Core Features Details
-
-1. **User Onboarding**
-    - Registration is done using WhatsApp, email, phone, or social logins.
-    - AI-driven transcript validation.
-
-2. **Career Guidance**
-    - Goal setting and skill gap analysis.
-    - Recommendations based on job trends.
-
-3. **Psychometric Assessments**
-    - Personality tests with region-specific guidance.
-    - Career and education suggestions.
-
-4. **Real-Time Career Tracking**
-    - LinkedIn and local job board integration.
-    - Interactive dashboards.
-
-5. **Entrepreneurship Support**
-    - AI tools for ideation and funding access.
-    - Mentorship connections.
-
-6. **Higher Education Planning**
-    - Global scholarships and grant databases.
-    - Proposal builder tools.
-    - Step-by-step university application guidance.
-
-7. **Personal and Professional Branding**
-    - Daily content suggestions and AI optimization.
-    - Guidance for online brand building.
-
-## UI/UX/Design Principles
-
-### Suggested Visual Elements
-
-- **Color Scheme**: Vibrant and neutral tones (e.g., blue, green, white).
-- **Typography**: Clean, modern fonts (e.g., Roboto, Open Sans).
-- **Icons and Illustrations**: Vector-based icons and onboarding illustrations.
-- **Animations**: Smooth transitions and micro-interactions.
-
-### UI Wireframe Highlights
-
-- **Homepage**: Motivational tagline, core features quick links, dashboard preview.
-- **Onboarding**: Guided forms with visual uploads.
-- **Dashboard**: Career tracking visualizations and widgets.
-- **Career Guidance**: Goal-setting wizard and skill gap analysis.
-- **Psychometric Assessments**: Engaging questionnaire and result dashboards.
-- **Higher Education Planning**: Scholarship finder and proposal builder.
-- **Gamification**: Leaderboards and badges.
-
-### Tools and Technologies for UI Design
-
-- Figma
-- Flutter
-- React.js
-
-### Sample Workflow
-
-1. **Wireframe and Prototype**: Start with low-fidelity wireframes.
-2. **Usability Testing**: Gather feedback from focus groups.
-3. **Iterative Design**: Refine based on feedback for enhanced usability.
+Career Canvas is a powerful career management app designed to help university students, especially those from Bangladesh, navigate their career paths with AI-driven insights, real-time tracking, and expert guidance. Whether you're planning your higher education, searching for job opportunities, or looking to become an entrepreneur, this app provides all the tools you need for success.  
 
 ---
 
-This project aims to empower university students globally, focusing on career, education, and personal development, with a special emphasis on Bangladeshi students.
+## 📸 App Screenshots  
 
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/2jHml3frxtRV1VtRicPMYhZnFgsfWHPMdA1AloB87b0hsJoXyU6WZJmN4FOpGm4b3A=w618-h1333-rw" alt="Screenshot 1" width="200">
+  <img src="https://play-lh.googleusercontent.com/1Tk7Nu1mrYeOlsZZTeU84oVSY7TYcioW_2EBLU_Hqpcrr8IQv5TCyrEMnJi-nHrCHQ=w618-h1333-rw" alt="Screenshot 2" width="200">
+  <img src="https://play-lh.googleusercontent.com/5CVH-9bxC2ZYavd54CwOlK--JCqnY_cNx0Ee7ZEbEpR--88A8AV_U829kxOtCmdFIrU=w618-h1333-rw" alt="Screenshot 3" width="200">
+  <img src="https://play-lh.googleusercontent.com/vZHwtfMtaRXTIl_aeP-sTvULOMk1nKEuAzBmfy6DcMUgwiWDS62EOru_lOPiwstUJui3=w618-h1333-rw" alt="Screenshot 4" width="200">
+</p>  
+
+---
+
+## 🚀 Key Features  
+
+### 🎯 Personalized Career Guidance  
+- Set personal, professional, and social goals  
+- Analyze skill gaps and receive AI-powered recommendations tailored to your aspirations  
+
+### 🧠 Psychometric Assessments  
+- Take globally recognized tests like **MBTI**  
+- Get culturally contextualized results to identify strengths and career matches  
+
+### 📊 Real-Time Career Tracking  
+- Connect with **LinkedIn** and **Bdjobs** to track job trends, salaries, and hiring insights—all in one place  
+
+### 💡 Entrepreneurship Support  
+- AI-powered tools for **startup ideation** and **pitch deck creation**  
+- Access funding opportunities from platforms like **Startup Bangladesh** and **Y Combinator**  
+
+### 🎓 Higher Education Planning  
+- Discover global scholarships like **Fulbright** and **Erasmus+**  
+- Build proposals and get step-by-step guidance for university applications  
+
+### 🌍 Community & Collaboration  
+- Join discussion forums and connect with students worldwide  
+- Access exclusive **webinars** and **workshops** from global industry leaders  
+
+### 🏆 Gamification & Achievements  
+- Earn **badges**, climb leaderboards, and track progress in **academics, skills, and entrepreneurship**  
+
+### 🤖 AI-Powered Assistance  
+- Get real-time insights on **career trends, skill demands, and global opportunities**  
+- Multilingual AI chatbot for **personalized career advice**  
+
+---
+
+## 🎯 Why Choose Career Canvas?  
+
+✅ **AI-Driven Insights** – Smart analytics to help you make informed career decisions  
+✅ **Multilingual Support** – Available in **English, Bangla**  
+✅ **Global & Local Integration** – Scholarships, job markets, and mentors from **Bangladesh and worldwide**  
+✅ **Secure & Compliant** – Your data is protected under **GDPR, CCPA, and other global privacy standards**  
+✅ **Designed for University Students** – Tailored solutions to help students transition from education to a successful career  
+
+---
+
+## 🚀 Start shaping your future today!  
+📲 **Download Career Canvas now and take control of your career journey!**  
