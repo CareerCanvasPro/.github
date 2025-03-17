@@ -11,10 +11,10 @@ Career Canvas is a powerful career management app designed to help university st
 ## 📸 App Screenshots  
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/2jHml3frxtRV1VtRicPMYhZnFgsfWHPMdA1AloB87b0hsJoXyU6WZJmN4FOpGm4b3A=w618-h1333-rw" alt="Screenshot 1" width="200">
-  <img src="https://play-lh.googleusercontent.com/1Tk7Nu1mrYeOlsZZTeU84oVSY7TYcioW_2EBLU_Hqpcrr8IQv5TCyrEMnJi-nHrCHQ=w618-h1333-rw" alt="Screenshot 2" width="200">
-  <img src="https://play-lh.googleusercontent.com/5CVH-9bxC2ZYavd54CwOlK--JCqnY_cNx0Ee7ZEbEpR--88A8AV_U829kxOtCmdFIrU=w618-h1333-rw" alt="Screenshot 3" width="200">
-  <img src="https://play-lh.googleusercontent.com/vZHwtfMtaRXTIl_aeP-sTvULOMk1nKEuAzBmfy6DcMUgwiWDS62EOru_lOPiwstUJui3=w618-h1333-rw" alt="Screenshot 4" width="200">
+  <img src="https://play-lh.googleusercontent.com/2jHml3frxtRV1VtRicPMYhZnFgsfWHPMdA1AloB87b0hsJoXyU6WZJmN4FOpGm4b3A=w618-h1333-rw" alt="Screenshot 1" width="24%">
+  <img src="https://play-lh.googleusercontent.com/1Tk7Nu1mrYeOlsZZTeU84oVSY7TYcioW_2EBLU_Hqpcrr8IQv5TCyrEMnJi-nHrCHQ=w618-h1333-rw" alt="Screenshot 2" width="24%">
+  <img src="https://play-lh.googleusercontent.com/5CVH-9bxC2ZYavd54CwOlK--JCqnY_cNx0Ee7ZEbEpR--88A8AV_U829kxOtCmdFIrU=w618-h1333-rw" alt="Screenshot 3" width="24%">
+  <img src="https://play-lh.googleusercontent.com/vZHwtfMtaRXTIl_aeP-sTvULOMk1nKEuAzBmfy6DcMUgwiWDS62EOru_lOPiwstUJui3=w618-h1333-rw" alt="Screenshot 4" width="24%">
 </p>  
 
 ---
